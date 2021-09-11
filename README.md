@@ -8,7 +8,7 @@ Data Visualization contains following Catgories
 2) Card visualization representing Total Gold Medals given to athlets.
 3) Card visualization representing Total Silver Medals given to athlets.
 4) Card visualization representing Bronze Medals given to athlets.
-5) Matrix visualization given Top 10 Country on Olympic list (Used TopN filter with Total Medals)
+5) Matrix visualization provides Top 10 Country on Olympic list (Used TopN filter with Total Medals)
 6) Map Visualization Indicated Total Medals won by Country
 7) Table visualization which gives information about total Athlets participated on Olympic
 
